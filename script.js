@@ -8,7 +8,7 @@
 //   USA: "15551234567" (for +1 555-123-4567)
 //   UK: "447911123456" (for +44 7911 123456)
 // ============================================
-const WHATSAPP_PHONE_NUMBER = "8960752608";
+const WHATSAPP_PHONE_NUMBER = "+91 6203731072";
 
 // Menu Data
 const menuData = {
@@ -626,3 +626,4 @@ function startNewOrder() {
 window.addToCart = addToCart;
 window.removeFromCart = removeFromCart;
 window.updateQuantity = updateQuantity;
+
